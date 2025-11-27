@@ -19,7 +19,7 @@ Transaction - A model that encapsulates details of a single income or expense re
 Display subclasses - Are responsible for the visual banners and UI formatting.
 FinancialTip interface - Serves as a source of dynamic financial suggestions.
 
-**Diagaram**
+**Diagram**
 
 # How to Run the Program
 
