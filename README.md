@@ -31,6 +31,7 @@ FinancialTip interface - Serves as a source of dynamic financial suggestions.
 
 # Author and Acknowledgement
 **Author**
+
 Developer & Programmer of BudgetWise
 
 **Acknowledgements**
