@@ -27,7 +27,8 @@ FinancialTip interface - Serves as a source of dynamic financial suggestions.
 
 # Sample Output
 <img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/dac30e94-005a-4590-86fd-1c5424cda15d" />
-<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/3d0bd6c8-6d0e-4a6e-b5ae-c472b699cf4c" />
+<img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/b2e369ed-8de3-4a14-a46c-8c226fd52695" />
+
 
 
 
