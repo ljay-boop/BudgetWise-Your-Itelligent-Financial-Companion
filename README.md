@@ -29,13 +29,23 @@ FinancialTip interface - Serves as a source of dynamic financial suggestions.
 
 
 
+
+
 # Author and Acknowledgement
 **Author**
 
 Developer & Programmer of BudgetWise
+
+**BAES,JERALD
+CANTOS,HAIZEL
+CASALME,JADE JAGGER
+CASEM,LORAINE JOY M.**
 
 **Acknowledgements**
 
 
  
 # Other Sections
+a. Future Enhancement
+
+b. references
