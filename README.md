@@ -23,6 +23,20 @@ FinancialTip interface - Serves as a source of dynamic financial suggestions.
 
 # How to Run the Program
 
+Follow these steps to run BudgetWise: Your Intelligent Financial Companion on your computer: 
+1.	Clone the Repository git clone https://github.com/ljay-boop/BudgetWise-Your-Itelligent-Financial-Companion.git cd BudgetWise-Your-Itelligent-Financial-Companion 
+2.	Compile the Program o Make sure you have Java JDK 8 or higher installed. o Compile the source file using:  o javac BudgetWise.java 
+3.	Run the Program After successful compilation, run the program with:  o java BudgetWiseApp
+4.	Using the Application
+   o Enter your monthly income when prompted.
+  	o Record your expenses by category (e.g., food, transportation, utilities). 
+   o	The program will automatically:  
+      ▪	Calculate your remaining balance. 
+      ▪	Show a percentage breakdown of expenses. 
+      ▪	Provide financial tips based on your spending. 
+o	All transactions are saved in a text file for easy viewing, editing, or deletion. 
+ 
+ 
 
 
 # Sample Output
