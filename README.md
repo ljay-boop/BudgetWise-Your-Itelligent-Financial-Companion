@@ -66,18 +66,18 @@ o	All transactions are saved in a text file for easy viewing, editing, or deleti
 
 Developer & Programmer of BudgetWise
 
-**BAES,JERALD
-CANTOS,HAIZEL
-CASALME,JADE JAGGER
-CASEM,LORAINE JOY M.**
+**BAES,JERALD<br>
+CANTOS,HAIZEL<br>
+CASALME,JADE JAGGER<br>
+CASEM,LORAINE JOY M.<br>**
 
 **Acknowledgements**
 
 
  
 # Other Sections
-a. Future Enhancement
+**a. Future Enhancement**<br>
    ▪ Add data saving using text files or database (SQLite).<br>
-   ▪ Add monthly budgeting goals.
+   ▪ Add monthly budgeting goals.<br>
    ▪ Add charts for visual spending analysis.
-   This​‍​‌‍​‍‌​‍​‌‍​‍‌ is to enhance the system's utility and user-friendliness. Data saving gives the program the ability to keep all transactions permanently, monthly budgeting goals assist users in controlling their spending, and charts offer simple visual interpretations of their financial ​‍​‌‍​‍‌​‍​‌‍​‍‌habits. 
+   This​‍​‌‍​‍‌​‍​‌‍​‍‌ is to enhance the system's utility and user-friendliness. Data saving gives the program the ability to keep all transactions permanently, monthly budgeting goals assist users in controlling their spending, and charts offer simple visual interpretations of their financial ​‍​‌‍​‍‌​‍​‌‍​‍‌habits.<br>
