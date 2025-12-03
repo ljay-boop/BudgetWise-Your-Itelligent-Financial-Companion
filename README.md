@@ -77,7 +77,7 @@ CASEM,LORAINE JOY M.**
  
 # Other Sections
 a. Future Enhancement
-   Add data saving using text files or database (SQLite).
-   Add monthly budgeting goals.
-   Add charts for visual spending analysis.
+   ▪ Add data saving using text files or database (SQLite).
+   ▪ Add monthly budgeting goals.
+   ▪ Add charts for visual spending analysis.
    This​‍​‌‍​‍‌​‍​‌‍​‍‌ is to enhance the system's utility and user-friendliness. Data saving gives the program the ability to keep all transactions permanently, monthly budgeting goals assist users in controlling their spending, and charts offer simple visual interpretations of their financial ​‍​‌‍​‍‌​‍​‌‍​‍‌habits. 
