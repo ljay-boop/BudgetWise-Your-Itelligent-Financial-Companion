@@ -76,7 +76,8 @@ CASEM,LORAINE JOY M.<br>**
 
  
 # Other Sections
-**a. Future Enhancement**<br>
+**Future Enhancement**<br>
+
    ▪ Add data saving using text files or database (SQLite).<br>
    ▪ Add monthly budgeting goals.<br>
    ▪ Add charts for visual spending analysis.<br>
