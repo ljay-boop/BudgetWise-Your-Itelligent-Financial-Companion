@@ -23,6 +23,8 @@ Display subclasses - Are responsible for the visual banners and UI formatting.
 
 FinancialTip interface - Serves as a source of dynamic financial suggestions.
 
+Colors- Responsible for the designs color
+
 
 
 # How to Run the Program
