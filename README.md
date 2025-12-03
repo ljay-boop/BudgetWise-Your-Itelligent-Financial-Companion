@@ -62,8 +62,6 @@ o	All transactions are saved in a text file for easy viewing, editing, or deleti
 
 
 # Author and Acknowledgement
-**Author**
-
 Developer & Programmer of BudgetWise
 
 **BAES,JERALD<br>
@@ -71,7 +69,8 @@ CANTOS,HAIZEL<br>
 CASALME,JADE JAGGER<br>
 CASEM,LORAINE JOY M.<br>**
 
-**Acknowledgements**
+**Acknowledgement<br>**
+We would like to express our sincere gratitude to everyone, specially to **Mr. Jayson Abratique** who supported and guided us throughout the development of this project and introducing OOP concepts which is required in the implementation of this system.<br>
 
 
  
