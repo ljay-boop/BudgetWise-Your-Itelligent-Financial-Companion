@@ -14,9 +14,13 @@ Polymorphism - It occurs when different display classes and financial tip classe
 **Main class and their roles**
 
 BudgetWiseApp - The main component that is responsible for managing the menu system.
+
 BudgetTracker - Manages the income, expenses, breakdown, summary, and history.
+
 Transaction - A model that encapsulates details of a single income or expense record.
+
 Display subclasses - Are responsible for the visual banners and UI formatting.
+
 FinancialTip interface - Serves as a source of dynamic financial suggestions.
 
 
